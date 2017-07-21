@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1500607371 source:c:\users\levan\onedrive\documents\codeblock\snake\main.c
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<ctype.h>
+	<time.h>
+	<windows.h>
+	<process.h>
+
